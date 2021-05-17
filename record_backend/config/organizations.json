@@ -1,0 +1,14 @@
+{
+  "org1": {
+    "caHostName": "ca.org1.example.com",
+    "orgMspId": "Org1MSP",
+    "affiliation": "org1",
+    "path": "../record_blockchain/network/organizations/peerOrganizations/org1.example.com/connection-org1.json"
+  },
+  "org2": {
+    "caHostName": "ca.org2.example.com",
+    "orgMspId": "Org2MSP",
+    "affiliation": "org2",
+    "path": "../record_blockchain/network/organizations/peerOrganizations/org2.example.com/connection-org2.json"
+  }
+}

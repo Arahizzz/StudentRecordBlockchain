@@ -1,0 +1,10 @@
+{
+  "index": {
+    "fields": [
+      "periods"
+    ]
+  },
+  "ddoc": "studentPeriodsDoc",
+  "name": "studentPeriods",
+  "type": "json"
+}

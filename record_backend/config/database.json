@@ -1,0 +1,8 @@
+{
+    "name": "users",
+    "login": "server",
+    "password": "password",
+    "host": "localhost",
+    "dialect": "postgres",
+    "tableName": "User"
+}
